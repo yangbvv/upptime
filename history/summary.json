@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.yangbvv.repl.co.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.84%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "94.84%",
-    "uptimeYear": "94.84%",
+    "uptime": "94.92%",
+    "uptimeDay": "94.92%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "94.92%",
+    "uptimeYear": "94.92%",
     "time": 6284,
     "timeDay": 6284,
     "timeWeek": 6284,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nav.yangbvv.repl.co.ico",
     "slug": "nav",
     "status": "up",
-    "uptime": "94.83%",
-    "uptimeDay": "94.83%",
-    "uptimeWeek": "94.83%",
-    "uptimeMonth": "94.83%",
-    "uptimeYear": "94.83%",
+    "uptime": "94.90%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "94.90%",
+    "uptimeMonth": "94.90%",
+    "uptimeYear": "94.90%",
     "time": 1254,
     "timeDay": 1254,
     "timeWeek": 1254,
@@ -44,19 +44,19 @@
     "url": "https://alist.yangbvv.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/alist.yangbvv.repl.co.ico",
     "slug": "alist",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
-    "time": 384,
-    "timeDay": 384,
-    "timeWeek": 384,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "status": "up",
+    "uptime": "98.26%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
+    "time": 312,
+    "timeDay": 312,
+    "timeWeek": 312,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-01-06": 2
+      "2023-01-06": 10
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeMonth": 334,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-01-06": 574
+      "2023-01-06": 583
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-01-06": 573
+      "2023-01-06": 581
     }
   }
 ]
