@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.yangbvv.repl.co.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "94.92%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "94.92%",
-    "uptimeMonth": "94.92%",
-    "uptimeYear": "94.92%",
+    "uptime": "96.83%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "96.83%",
+    "uptimeYear": "96.83%",
     "time": 6284,
     "timeDay": 6284,
     "timeWeek": 6284,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nav.yangbvv.repl.co.ico",
     "slug": "nav",
     "status": "up",
-    "uptime": "94.90%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "94.90%",
-    "uptimeYear": "94.90%",
+    "uptime": "96.84%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "96.84%",
     "time": 1254,
     "timeDay": 1254,
     "timeWeek": 1254,
@@ -45,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.yangbvv.repl.co.ico",
     "slug": "alist",
     "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 312,
     "timeWeek": 312,
     "timeMonth": 312,
     "timeYear": 312,
-    "dailyMinutesDown": {
-      "2023-01-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "reader",
@@ -94,7 +92,7 @@
     "timeMonth": 334,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-01-06": 583
+      "2023-01-06": 940
     }
   },
   {
@@ -120,18 +118,20 @@
     "url": "https://v2.yangbvv.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/v2.yangbvv.repl.co.ico",
     "slug": "v2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 7180,
-    "timeDay": 7180,
-    "timeWeek": 7180,
-    "timeMonth": 7180,
-    "timeYear": 7180,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 4884,
+    "timeDay": 4884,
+    "timeWeek": 4884,
+    "timeMonth": 4884,
+    "timeYear": 4884,
+    "dailyMinutesDown": {
+      "2023-01-06": 0
+    }
   },
   {
     "name": "v3",
@@ -150,7 +150,7 @@
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-01-06": 581
+      "2023-01-06": 939
     }
   }
 ]
