@@ -4,19 +4,20 @@
     "url": "https://blog.yangbvv.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/blog.yangbvv.repl.co.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "97.19%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "97.19%",
-    "time": 4838,
-    "timeDay": 4838,
-    "timeWeek": 4838,
-    "timeMonth": 4838,
-    "timeYear": 4838,
+    "status": "up",
+    "uptime": "90.92%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "90.92%",
+    "uptimeMonth": "90.92%",
+    "uptimeYear": "90.92%",
+    "time": 3919,
+    "timeDay": 3919,
+    "timeWeek": 3919,
+    "timeMonth": 3919,
+    "timeYear": 3919,
     "dailyMinutesDown": {
-      "2023-01-06": 32
+      "2023-01-07": 79,
+      "2023-01-06": 33
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://nav.yangbvv.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/nav.yangbvv.repl.co.ico",
     "slug": "nav",
-    "status": "down",
-    "uptime": "97.25%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "97.25%",
-    "time": 923,
-    "timeDay": 923,
-    "timeWeek": 923,
-    "timeMonth": 923,
-    "timeYear": 923,
+    "status": "up",
+    "uptime": "90.93%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "90.93%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "90.93%",
+    "time": 748,
+    "timeDay": 748,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {
-      "2023-01-06": 32
+      "2023-01-07": 79,
+      "2023-01-06": 33
     }
   },
   {
@@ -44,19 +46,20 @@
     "url": "https://alist.yangbvv.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/alist.yangbvv.repl.co.ico",
     "slug": "alist",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 355,
-    "timeDay": 355,
-    "timeWeek": 355,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "status": "up",
+    "uptime": "93.38%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "93.38%",
+    "uptimeMonth": "93.38%",
+    "uptimeYear": "93.38%",
+    "time": 313,
+    "timeDay": 313,
+    "timeWeek": 313,
+    "timeMonth": 313,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-01-06": 1
+      "2023-01-07": 79,
+      "2023-01-06": 2
     }
   },
   {
@@ -64,19 +67,20 @@
     "url": "https://reader.yangbvv.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/reader.yangbvv.repl.co.ico",
     "slug": "reader",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 758,
-    "timeDay": 758,
-    "timeWeek": 758,
-    "timeMonth": 758,
-    "timeYear": 758,
+    "status": "up",
+    "uptime": "93.42%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "93.42%",
+    "uptimeMonth": "93.42%",
+    "uptimeYear": "93.42%",
+    "time": 678,
+    "timeDay": 678,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2023-01-06": 1
+      "2023-01-07": 79,
+      "2023-01-06": 2
     }
   },
   {
@@ -96,7 +100,8 @@
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-01-06": 1152
+      "2023-01-07": 80,
+      "2023-01-06": 1153
     }
   },
   {
@@ -123,18 +128,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/v2.yangbvv.repl.co.ico",
     "slug": "v2",
     "status": "down",
-    "uptime": "81.57%",
-    "uptimeDay": "81.57%",
-    "uptimeWeek": "81.57%",
-    "uptimeMonth": "81.57%",
-    "uptimeYear": "81.57%",
+    "uptime": "76.24%",
+    "uptimeDay": "76.24%",
+    "uptimeWeek": "76.24%",
+    "uptimeMonth": "76.24%",
+    "uptimeYear": "76.24%",
     "time": 3689,
     "timeDay": 3689,
     "timeWeek": 3689,
     "timeMonth": 3689,
     "timeYear": 3689,
     "dailyMinutesDown": {
-      "2023-01-06": 212
+      "2023-01-07": 80,
+      "2023-01-06": 213
     }
   },
   {
@@ -154,7 +160,8 @@
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-01-06": 1150
+      "2023-01-07": 80,
+      "2023-01-06": 1151
     }
   }
 ]
