@@ -13,6 +13,8 @@ sites:
     url: https://reader.yangbvv.repl.co
   - name: drpy
     url: https://drpy.yangbvv.repl.co
+  - name: whoogle-search
+    url: https://whoogle-search.yangbvv.repl.co
   - name: uptime-kuma
     url: https://uptime-kuma.yangbvv.repl.co
   - name: v2
