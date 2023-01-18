@@ -19,6 +19,8 @@ sites:
     url: https://uptime-kuma.yangbvv.repl.co
   - name: v2
     url: https://v2.yangbvv.repl.co
+  - name: htmly
+    url: https://htmly.yangbvv.repl.co
   - name: v3
     url: https://v3.yangbvv.repl.co
 status-website:
