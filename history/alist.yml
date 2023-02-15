@@ -1,7 +1,7 @@
 url: https://alist.yangbvv.repl.co
-status: up
-code: 200
-responseTime: 227
-lastUpdated: 2023-02-14T23:10:50.029Z
+status: down
+code: 429
+responseTime: 729
+lastUpdated: 2023-02-15T11:38:59.113Z
 startTime: Fri Jan 06 2023 04:45:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
