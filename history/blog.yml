@@ -1,7 +1,7 @@
 url: https://blog.yangbvv.repl.co
-status: up
-code: 200
-responseTime: 202
-lastUpdated: 2023-03-28T18:29:31.412Z
+status: down
+code: 429
+responseTime: 9116
+lastUpdated: 2023-03-28T22:12:17.057Z
 startTime: Fri Jan 06 2023 04:36:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
