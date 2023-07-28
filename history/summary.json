@@ -57,9 +57,9 @@
     "url": "https://nav.yangbvv.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/nav.yangbvv.repl.co.ico",
     "slug": "nav",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "97.66%",
     "uptimeYear": "99.07%",
@@ -69,6 +69,7 @@
     "timeMonth": 1904,
     "timeYear": 1766,
     "dailyMinutesDown": {
+      "2023-07-28": 0,
       "2023-07-21": 21,
       "2023-07-19": 19,
       "2023-07-14": 22,
@@ -117,7 +118,7 @@
     "timeMonth": 255,
     "timeYear": 1847,
     "dailyMinutesDown": {
-      "2023-07-28": 198,
+      "2023-07-28": 210,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -357,7 +358,7 @@
     "timeMonth": 258,
     "timeYear": 2431,
     "dailyMinutesDown": {
-      "2023-07-28": 199,
+      "2023-07-28": 210,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -707,7 +708,7 @@
     "timeMonth": 231,
     "timeYear": 1967,
     "dailyMinutesDown": {
-      "2023-07-28": 199,
+      "2023-07-28": 210,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -956,7 +957,7 @@
     "timeMonth": 266,
     "timeYear": 1722,
     "dailyMinutesDown": {
-      "2023-07-28": 199,
+      "2023-07-28": 210,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
