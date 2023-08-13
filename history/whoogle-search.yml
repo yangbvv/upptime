@@ -1,7 +1,7 @@
 url: https://whoogle-search.yangbvv.repl.co
-status: up
-code: 200
-responseTime: 787
-lastUpdated: 2023-08-13T06:26:34.782Z
+status: down
+code: 502
+responseTime: 13327
+lastUpdated: 2023-08-13T14:23:45.524Z
 startTime: Mon Jan 09 2023 05:30:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
