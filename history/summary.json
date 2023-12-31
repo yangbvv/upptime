@@ -130,7 +130,7 @@
     "timeMonth": 3168,
     "timeYear": 2387,
     "dailyMinutesDown": {
-      "2023-12-31": 74,
+      "2023-12-31": 180,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -456,9 +456,9 @@
     "url": "https://reader.yangbvv.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/reader.yangbvv.repl.co.ico",
     "slug": "reader",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.92%",
@@ -468,6 +468,7 @@
     "timeMonth": 303,
     "timeYear": 1250,
     "dailyMinutesDown": {
+      "2023-12-31": 0,
       "2023-12-17": 20,
       "2023-10-05": 37,
       "2023-10-02": 120,
@@ -542,7 +543,7 @@
     "timeMonth": 2935,
     "timeYear": 2831,
     "dailyMinutesDown": {
-      "2023-12-31": 75,
+      "2023-12-31": 180,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1072,7 +1073,7 @@
     "timeMonth": 4040,
     "timeYear": 2495,
     "dailyMinutesDown": {
-      "2023-12-31": 75,
+      "2023-12-31": 180,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1484,7 +1485,7 @@
     "timeMonth": 3934,
     "timeYear": 2441,
     "dailyMinutesDown": {
-      "2023-12-31": 75,
+      "2023-12-31": 180,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
