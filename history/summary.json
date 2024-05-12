@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.yangbvv.repl.co.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "80.52%",
+    "uptime": "80.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.04%",
+    "uptimeYear": "73.77%",
     "time": 790,
-    "timeDay": 667,
-    "timeWeek": 406,
-    "timeMonth": 435,
+    "timeDay": 297,
+    "timeWeek": 413,
+    "timeMonth": 434,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2024-05-11": 70,
+      "2024-05-12": 77,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -134,8 +135,7 @@
       "2023-06-24": 25,
       "2023-05-25": 15,
       "2023-05-24": 39,
-      "2023-05-18": 20,
-      "2023-05-13": 36
+      "2023-05-18": 20
     }
   },
   {
@@ -144,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nav.yangbvv.repl.co.ico",
     "slug": "nav",
     "status": "down",
-    "uptime": "92.38%",
+    "uptime": "92.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.68%",
-    "uptimeYear": "90.05%",
+    "uptimeMonth": "61.38%",
+    "uptimeYear": "89.77%",
     "time": 1170,
-    "timeDay": 174,
-    "timeWeek": 230,
-    "timeMonth": 584,
-    "timeYear": 1014,
+    "timeDay": 158,
+    "timeWeek": 229,
+    "timeMonth": 567,
+    "timeYear": 1013,
     "dailyMinutesDown": {
-      "2024-05-11": 70,
+      "2024-05-12": 77,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -217,18 +218,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.yangbvv.repl.co.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "10.94%",
+    "uptime": "10.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2429,
+    "time": 2435,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2608,
+    "timeYear": 2618,
     "dailyMinutesDown": {
-      "2024-05-11": 70,
+      "2024-05-12": 77,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -591,8 +593,7 @@
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
-      "2023-05-14": 1440,
-      "2023-05-13": 1440
+      "2023-05-14": 1440
     }
   },
   {
@@ -601,18 +602,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reader.yangbvv.repl.co.ico",
     "slug": "reader",
     "status": "down",
-    "uptime": "91.99%",
+    "uptime": "91.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.68%",
-    "uptimeYear": "89.46%",
-    "time": 1055,
-    "timeDay": 638,
-    "timeWeek": 405,
-    "timeMonth": 561,
-    "timeYear": 982,
+    "uptimeMonth": "61.38%",
+    "uptimeYear": "89.19%",
+    "time": 1054,
+    "timeDay": 345,
+    "timeWeek": 414,
+    "timeMonth": 554,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-05-11": 70,
+      "2024-05-12": 77,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -680,8 +682,7 @@
       "2023-06-21": 83,
       "2023-05-25": 21,
       "2023-05-24": 20,
-      "2023-05-18": 51,
-      "2023-05-13": 21
+      "2023-05-18": 51
     }
   },
   {
@@ -699,9 +700,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2857,
+    "timeYear": 2848,
     "dailyMinutesDown": {
-      "2024-05-11": 70,
+      "2024-05-12": 77,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -1064,8 +1066,7 @@
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
-      "2023-05-14": 1440,
-      "2023-05-13": 1440
+      "2023-05-14": 1440
     }
   },
   {
@@ -1074,15 +1075,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoogle-search.yangbvv.repl.co.ico",
     "slug": "whoogle-search",
     "status": "up",
-    "uptime": "94.29%",
+    "uptime": "94.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.90%",
     "time": 2013,
-    "timeDay": 917,
-    "timeWeek": 939,
-    "timeMonth": 807,
+    "timeDay": 585,
+    "timeWeek": 864,
+    "timeMonth": 813,
     "timeYear": 1842,
     "dailyMinutesDown": {
       "2024-02-07": 1369,
@@ -1144,16 +1145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-kuma.yangbvv.repl.co.ico",
     "slug": "uptime-kuma",
     "status": "up",
-    "uptime": "94.33%",
+    "uptime": "94.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.70%",
     "time": 1655,
-    "timeDay": 484,
-    "timeWeek": 527,
-    "timeMonth": 670,
-    "timeYear": 1728,
+    "timeDay": 1072,
+    "timeWeek": 598,
+    "timeMonth": 692,
+    "timeYear": 1729,
     "dailyMinutesDown": {
       "2024-02-07": 1369,
       "2024-02-06": 1440,
@@ -1215,8 +1216,7 @@
       "2023-05-25": 19,
       "2023-05-24": 38,
       "2023-05-23": 20,
-      "2023-05-18": 104,
-      "2023-05-13": 34
+      "2023-05-18": 104
     }
   },
   {
@@ -1225,18 +1225,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/v2.yangbvv.repl.co.ico",
     "slug": "v2",
     "status": "down",
-    "uptime": "6.86%",
+    "uptime": "6.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2618,
+    "time": 2625,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2725,
+    "timeYear": 2715,
     "dailyMinutesDown": {
-      "2024-05-11": 71,
+      "2024-05-12": 77,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -1599,8 +1600,7 @@
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
-      "2023-05-14": 1440,
-      "2023-05-13": 1440
+      "2023-05-14": 1440
     }
   },
   {
@@ -1609,18 +1609,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/htmly.yangbvv.repl.co.ico",
     "slug": "htmly",
     "status": "down",
-    "uptime": "80.12%",
+    "uptime": "79.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.12%",
+    "uptimeYear": "73.84%",
     "time": 817,
-    "timeDay": 671,
+    "timeDay": 119,
     "timeWeek": 356,
-    "timeMonth": 328,
-    "timeYear": 722,
+    "timeMonth": 324,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-05-11": 71,
+      "2024-05-12": 77,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -1739,8 +1740,7 @@
       "2023-05-25": 18,
       "2023-05-24": 54,
       "2023-05-23": 21,
-      "2023-05-18": 63,
-      "2023-05-13": 18
+      "2023-05-18": 63
     }
   },
   {
@@ -1758,9 +1758,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2673,
+    "timeYear": 2682,
     "dailyMinutesDown": {
-      "2024-05-11": 71,
+      "2024-05-12": 77,
+      "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -2123,8 +2124,7 @@
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
-      "2023-05-14": 1440,
-      "2023-05-13": 1440
+      "2023-05-14": 1440
     }
   }
 ]
