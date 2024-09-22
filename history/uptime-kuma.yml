@@ -1,7 +1,7 @@
 url: https://uptime-kuma.yangbvv.repl.co
-status: down
-code: 429
-responseTime: 688
-lastUpdated: 2024-09-21T23:39:15.483Z
+status: up
+code: 200
+responseTime: 578
+lastUpdated: 2024-09-22T05:53:03.615Z
 startTime: 2023-01-06T04:47:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
